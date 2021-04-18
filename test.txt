@@ -1,4 +1,4 @@
 #include <iostream>
 int main(){
-std::cout << "hello maks" << std::endl;
+std::cout << "hello" << std::endl;
 }
